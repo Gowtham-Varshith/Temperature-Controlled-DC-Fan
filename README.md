@@ -1,4 +1,3 @@
-
 # 🌡️ Temperature Controlled DC Fan Project
 
 This project implements a **temperature-controlled DC fan** system using Arduino. The fan turns on when the temperature reaches a predefined threshold and turns off automatically when it falls below that threshold. This system is useful for applications where automatic temperature regulation is needed.
@@ -24,7 +23,7 @@ The goal of this project is to design and develop a system that automatically op
 
 The block diagram below shows the functional structure of the system:
 
-![Block Diagram](/mnt/data/Temperature-controlled-DC-fan-main/Temperature-controlled-DC-fan-main/Block Diagram.png)
+![Block Diagram](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Block%20Diagram.png)
 
 ---
 
@@ -32,7 +31,7 @@ The block diagram below shows the functional structure of the system:
 
 The circuit connects the Arduino, temperature sensor, relay module, and fan. Below is the schematic diagram showing the connections:
 
-![Circuit Diagram](Circuit Diagram.png)
+![Circuit Diagram](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Circuit%20Diagram.png)
 
 ---
 
@@ -45,7 +44,7 @@ The system uses an **LM35 temperature sensor** to measure the room temperature. 
 
 Below is the flowchart that explains the working of the system:
 
-![Flowchart](/mnt/data/Temperature-controlled-DC-fan-main/Temperature-controlled-DC-fan-main/Flowchart.png)
+![Flowchart](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Flowchart.png)
 
 ### How It Works:
 
@@ -61,13 +60,13 @@ Below is the flowchart that explains the working of the system:
 Here are real-world images of the implemented hardware:
 
 ### Hardware Setup:
-![Hardware Image](/mnt/data/Temperature-controlled-DC-fan-main/Temperature-controlled-DC-fan-main/Hardware Image Without Battery Connection.jpg)
+![Hardware Image](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Hardware%20Image%20Without%20Battery%20Connection.jpg)
 
 ### Fan OFF when temperature is below 30°C:
-![Fan Off Image](/mnt/data/Temperature-controlled-DC-fan-main/Temperature-controlled-DC-fan-main/Fan Off (Temp is less than 30).jpg)
+![Fan Off Image](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Fan%20Off%20(Temp%20is%20less%20than%2030).jpg)
 
 ### Fan ON when temperature is 30°C or above:
-![Fan On Image](/mnt/data/Temperature-controlled-DC-fan-main/Temperature-controlled-DC-fan-main/Fan On (Temp is greater than equal 30).jpg)
+![Fan On Image](https://github.com/Gowtham-Varshith/Temperature-Controlled-DC-Fan/blob/main/Fan%20On%20(Temp%20is%20greater%20than%20equal%2030).jpg)
 
 ---
 
@@ -102,4 +101,3 @@ For any questions or further information, feel free to contact me:
 - **GitHub:** [Gowtham Varshith](https://github.com/Gowtham-Varshith)
 
 ---
-
